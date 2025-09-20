@@ -49,8 +49,11 @@ Make sure you have Java installed on your machine.
 ## 🧑‍🎓 Author
 
 **Name:** Preeti Chablani
+
 **Course:** BCA 2nd Year - Semester 3
+
 **College:** Dezyne Ecole College, Ajmer
+
 **GitHub:** preetichablani (https://github.com/preetichablani)
 
 ## 📜 License
