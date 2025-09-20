@@ -1,5 +1,7 @@
 Java ASCII Project
-This is a Java-based console project created as part of my BCA 2nd Year - Semester 3 coursework at Dezyne Ecole College. The project demonstrates the use of basic Java concepts such as loops, conditionals, methods, Scanner class, and menu-driven programming to display various text patterns based on user input.
+This is a Java-based console project created as part of my BCA 2nd Year - Semester 3 coursework at Dezyne Ecole College.
+The project demonstrates the use of basic Java concepts such as loops, conditionals, methods, Scanner class, 
+and menu-driven programming to display various text patterns based on user input.
 
 🚀 Features
 📋 Menu-driven interface for easy navigation
