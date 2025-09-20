@@ -5,15 +5,24 @@ and menu-driven programming to display various text patterns based on user input
 
 🚀 Features
 📋 Menu-driven interface for easy navigation
+
 🔢 User input with Scanner class
+
 🔁 Uses loops and logic to generate creative patterns
+
 🧠 Good for understanding the basics of Java control structures
+
 🛠 Technologies Used
+
 Java (JDK 8 or higher)
+
 Scanner class for input
+
 Console-based (no GUI)
 📂 How to Run
+
 Clone the repository:
+
 git clone https://github.com/your-username/java-ASCII-Project.git
 
 2. **Navigate to the project folder:**
